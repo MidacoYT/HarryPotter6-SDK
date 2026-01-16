@@ -1,0 +1,50 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Compiled files
+*.a
+*.lib
+
+# IDE files
+.vs/
+*.vcxproj*
+*.sln
+*.user
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Log files
+*.log
+*.txt
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+dist/
+out/
+
+# Dependency files
+*.d
+*.dep
+
+# Backup files
+*.bak
+*.backup
